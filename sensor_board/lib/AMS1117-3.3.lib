@@ -1,0 +1,28 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# AMS1117-3.3
+#
+DEF ~AMS1117-3.3 U 0 40 Y Y 1 L N
+F0 "U" 0 0 50 H I L BNN
+F1 "AMS1117-3.3" 0 0 50 H I L BNN
+F2 "SOT223" 0 0 50 H I L BNN
+F3 "None" 0 0 50 H I L BNN
+F4 "None" 0 0 50 H I L BNN
+F5 "Sot223/Pkg 1-Amp 3.3-Volt Low Drop Out Voltage Regulatator" 0 0 50 H I L BNN
+F6 "Advanced Monolithic Systems" 0 0 50 H I L BNN
+F7 "Unavailable" 0 0 50 H I L BNN
+F8 "AMS1117-3.3" 0 0 50 H I L BNN
+DRAW
+T 0 0 100 66 0 0 0 AMS1117-3.3 Normal 0 C B
+P 2 0 0 10 -400 -300 -400 200 N
+P 2 0 0 10 -400 200 400 200 N
+P 2 0 0 10 400 -300 -400 -300 N
+P 2 0 0 10 400 200 400 -300 N
+X GND 1 0 -500 200 U 40 40 0 0 P
+X VOUT 2 600 0 200 L 40 40 0 0 w
+X VIN 3 -600 0 200 R 40 40 0 0 P
+ENDDRAW
+ENDDEF
+#
+#End Library

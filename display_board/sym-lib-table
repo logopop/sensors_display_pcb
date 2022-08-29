@@ -1,0 +1,9 @@
+(sym_lib_table
+  (lib (name 32mz_obdgauge2_main-rescue)(type Legacy)(uri ${KIPRJMOD}/32mz_obdgauge2_main-rescue.lib)(options "")(descr ""))
+  (lib (name PIC32MZ2048EFM064-I_PT)(type Legacy)(uri ${KIPRJMOD}/lib/PIC32MZ2048EFM064-I_PT.lib)(options "")(descr ""))
+  (lib (name KC5032A20.0000CM0E00)(type Legacy)(uri ${KIPRJMOD}/lib/KC5032A20.0000CM0E00.lib)(options "")(descr ""))
+  (lib (name AMS1117-3.3)(type Legacy)(uri ${KIPRJMOD}/lib/AMS1117-3.3.lib)(options "")(descr ""))
+  (lib (name 1981584-1)(type Legacy)(uri ${KIPRJMOD}/lib/1981584-1.lib)(options "")(descr ""))
+  (lib (name ESP8266-12E_ESP-12E)(type Legacy)(uri ${KIPRJMOD}/lib/ESP8266-12E_ESP-12E.lib)(options "")(descr ""))
+  (lib (name uSD_push-push_ebay)(type Legacy)(uri ${KIPRJMOD}/lib/uSD_push-push_ebay.lib)(options "")(descr ""))
+)
